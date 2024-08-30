@@ -1,1 +1,0 @@
-This directory contains experiments focused on DLG (Deep Leakage from Gradients) attacks. These experiments explore the impact of performing the attacks on different model segments and investigate the effects of varying the size of the lower model partition.

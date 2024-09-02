@@ -29,9 +29,9 @@ ParMS/
 ├── README.md
 ```
 
-- **DLG_attacks/**: Experiments related to DLG attacks with full and partial model access.
-- **Efficiency/**: Analysis of the model's efficiency when sharing a small portion of model parameters.
-  - **encryption/**: Implementation of homomorphic encryption on the shared model parameters.
+- **DLG_attacks**: Experiments related to DLG attacks with full and partial model access.
+- **Efficiency**: Analysis of the model's efficiency when sharing a small portion of model parameters.
+  - **encryption**: Implementation of homomorphic encryption on the shared model parameters.
 
 - **README.md**: This file, providing an overview and usage instructions for the repository.
 

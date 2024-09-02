@@ -22,8 +22,7 @@ In this project, we investigate the effects of partial model parameter sharing o
 The repository is organized as follows:
 
 ```
-ParMS-Experiments/
-│
+ParMS/
 ├── DLG_attacks/
 ├── Efficiency/
 │   └── HE/

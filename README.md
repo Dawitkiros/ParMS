@@ -42,7 +42,7 @@ To set up the environment, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ParMS.git
+   git clone https://github.com/Dawitkiros/ParMS
    cd ParMS
    # go into any of the experiments and run the jupyter notebook
    ```

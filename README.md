@@ -1,6 +1,6 @@
 # ParMS Experiments
 
-This repository contains the source code and experimental results for the **Partial Model Sharing (ParMS)**. The primary focus of this experiment is to explore the impact of sharing only a small portion of model parameters in the context of Deep Leakage from Gradients (DLG) attacks and to analyze the efficiency of such methods. Additionally, the repository includes an implementation of homomorphic encryption applied to a subset of the shared model parameters.
+This repository contains the source code for the **Partial Model Sharing (ParMS)**. The primary focus of this experiment is to explore the impact of sharing only a small portion of model parameters in the context of Deep Leakage from Gradients (DLG) attacks and to analyze the efficiency of such methods. Additionally, the repository includes an implementation of homomorphic encryption applied to a subset of the shared model parameters.
 
 ## Table of Contents
 
